@@ -4,12 +4,12 @@ Personal implementation of 'Variational Inference MPC using Tsallis Divergence' 
 ## Structure
 
 planar_navigation.m
-  policy_update.m
-      uniGaussian.m
-      cost.m
-          obstacles.m
-      uniGaussianUpdate.m
-          uniGaussianpdf.m
+  - policy_update.m
+      - uniGaussian.m
+      - cost.m
+          - obstacles.m
+      - uniGaussianUpdate.m
+          - uniGaussianpdf.m
 
 
 ## Descriptions
